@@ -1,5 +1,5 @@
 {
-   "checksum": "04f077cc8e52c24f88e267a46e4a488c",
+   "checksum": "b61e628df1a803bb42fbce700052f11a",
    "roots": {
       "bookmark_bar": {
          "children": [  ],
@@ -77,15 +77,24 @@
                      "id": "27",
                      "name": "SpringBoot",
                      "type": "folder"
+                  }, {
+                     "date_added": "13153760758429624",
+                     "id": "30",
+                     "meta_info": {
+                        "last_visited_desktop": "13153760758430624"
+                     },
+                     "name": "Java Platform Standard Edition 8 Documentation",
+                     "type": "url",
+                     "url": "https://docs.oracle.com/javase/8/docs/"
                   } ],
                   "date_added": "13153758632534406",
-                  "date_modified": "13153758632534406",
+                  "date_modified": "13153760763463624",
                   "id": "26",
                   "name": "Java",
                   "type": "folder"
                } ],
                "date_added": "13153758632534406",
-               "date_modified": "13153758632534406",
+               "date_modified": "13153760758429624",
                "id": "25",
                "name": "IT",
                "type": "folder"
