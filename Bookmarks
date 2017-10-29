@@ -1,17 +1,8 @@
 {
-   "checksum": "753ccf851c9a8a680b7072aa1cbf9b86",
+   "checksum": "04f077cc8e52c24f88e267a46e4a488c",
    "roots": {
       "bookmark_bar": {
-         "children": [ {
-            "date_added": "13150123340946911",
-            "id": "6",
-            "meta_info": {
-               "last_visited_desktop": "13150123340947911"
-            },
-            "name": "Introduction — Vue.js",
-            "type": "url",
-            "url": "https://vuejs.org/v2/guide/#What-is-Vue-js"
-         } ],
+         "children": [  ],
          "date_added": "13150123048402497",
          "date_modified": "13150728210872529",
          "id": "1",
