@@ -1,0 +1,140 @@
+{
+   "checksum": "753ccf851c9a8a680b7072aa1cbf9b86",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13150123340946911",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13150123340947911"
+            },
+            "name": "Introduction — Vue.js",
+            "type": "url",
+            "url": "https://vuejs.org/v2/guide/#What-is-Vue-js"
+         } ],
+         "date_added": "13150123048402497",
+         "date_modified": "13150728210872529",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13150728210872529",
+                     "id": "9",
+                     "meta_info": {
+                        "last_visited_desktop": "13150728210881529"
+                     },
+                     "name": "win7和ubuntu下搭建VPS和shadowsock - cursorhu - 博客园",
+                     "type": "url",
+                     "url": "http://www.cnblogs.com/cursorhu/p/7157257.html"
+                  }, {
+                     "date_added": "13150728319322812",
+                     "id": "13",
+                     "meta_info": {
+                        "last_visited_desktop": "13150728654963489"
+                     },
+                     "name": "Mass VPS hosting on Enterprise equipment - BandwagonHost VPS",
+                     "type": "url",
+                     "url": "https://bwh1.net/"
+                  } ],
+                  "date_added": "13150728252681648",
+                  "date_modified": "13153154492045003",
+                  "id": "12",
+                  "name": "VPS",
+                  "type": "folder"
+               } ],
+               "date_added": "13150728252681648",
+               "date_modified": "13150728252681648",
+               "id": "11",
+               "name": "VPN & VPS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13153733011322274",
+                  "id": "20",
+                  "meta_info": {
+                     "last_visited_desktop": "13153733011322274"
+                  },
+                  "name": "在线地图 历史地图 专题地图 在线历史地图 中国历史地图 云GIS WebGIS 地图云集 地图画板 Maplet",
+                  "type": "url",
+                  "url": "http://www.maplet.org/"
+               } ],
+               "date_added": "13153733023781706",
+               "date_modified": "13153758584089882",
+               "id": "21",
+               "name": "Map",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13153758584089882",
+                        "id": "24",
+                        "meta_info": {
+                           "last_visited_desktop": "13153758584089882"
+                        },
+                        "name": "Amazon S3 - Upload/Download files with SpringBoot Amazon S3 application. - JavaSampleApproach",
+                        "type": "url",
+                        "url": "http://javasampleapproach.com/spring-framework/spring-cloud/amazon-s3-uploaddownload-files-springboot-amazon-s3-application"
+                     } ],
+                     "date_added": "13153758632534406",
+                     "date_modified": "13153758632534406",
+                     "id": "27",
+                     "name": "SpringBoot",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13153758632534406",
+                  "date_modified": "13153758632534406",
+                  "id": "26",
+                  "name": "Java",
+                  "type": "folder"
+               } ],
+               "date_added": "13153758632534406",
+               "date_modified": "13153758632534406",
+               "id": "25",
+               "name": "IT",
+               "type": "folder"
+            } ],
+            "date_added": "13150728252681648",
+            "date_modified": "13153733016129274",
+            "id": "10",
+            "name": "BlackMesa",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13153154492045003",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13153154492046003"
+               },
+               "name": "Original dll files",
+               "type": "url",
+               "url": "http://originaldll.com/"
+            } ],
+            "date_added": "13153154503795003",
+            "date_modified": "13153733011322274",
+            "id": "17",
+            "name": "DLL",
+            "type": "folder"
+         } ],
+         "date_added": "13150123048402497",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13150123048402497",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
